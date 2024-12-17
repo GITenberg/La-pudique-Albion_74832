@@ -1,0 +1,32 @@
+_repo: La-pudique-Albion_74832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: France, Hector
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '3772'
+    url: http://www.gutenberg.org/2009/agents/3772
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Hector_France
+    - https://www.gutenberg.org/ebooks/author/51221
+description: ''
+gutenberg_issued: '2024-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74832'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k37227v
+pgterms:marc905: 20241019080201france
+pgterms:marc906: '1893'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bLibrairie des publications à 5 centimes, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La pudique Albion
+url: http://www.gutenberg.org/ebooks/74832
